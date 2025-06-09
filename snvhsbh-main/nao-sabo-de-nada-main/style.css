@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to bottom, #000000, #00cc33);
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+.immagemm{
+    width: 100%;
+  text-align: center;
+  padding-top: 20px;
+}
+.imagemm img {
+    display: inline-block;
+    max-width: 300px;
+    height: auto;
+}
+.h1{
+    text-align: center;
+    
+}
